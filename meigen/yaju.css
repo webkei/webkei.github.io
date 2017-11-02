@@ -1,0 +1,26 @@
+body {
+	background: #ffffff;
+	color: #2a2a2a;
+}
+p {
+	margin-top: 1rem;
+	margin-left: 30px;
+	}
+ruby {
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
+}
+.parent {
+	display: block;
+	margin: 0 auto;
+	font-family: 'Noto Sans JP', 'Yu Mincho', YuMincho, 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', 'HGP明朝B', serif;
+	-webkit-font-feature-settings: 'pkna';
+	font-feature-settings: 'pkna';
+	font-size: 20px;
+	line-height: 1.9;
+	letter-spacing: 0.03em;;
+	writing-mode: vertical-rl;
+}
+.twitter {
+	position: absolute;
+	bottom: 0;
+}
